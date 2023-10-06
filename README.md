@@ -1,2 +1,2 @@
 # DEPLOYED-DOCKERIZED-DJANGO-TODO-APPLICATION-INTO-AWS-SERVER-PUSHED-INTO-JENKINS-CI-CD-PIPELINE
-Deployed a Django TODO app into AWS server dockerized version of image pushed into pipeline using Jenkin.
+Description : Championed the successful deployment of a Dockerized Django ToDo application onto AWS servers, seamlessly integrating it into a Jenkins CI/CD pipeline. Executed end-to-end orchestration, optimizing for efficiency, scalability, and continuous integration to enhance project workflow and reliability
